@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "857707658199",
+    "project_id": "cochetec-768d0",
+    "storage_bucket": "cochetec-768d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857707658199:android:d1fec31dbe8920d9aae992",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.dam_u3_ejercicio7_sqlite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857707658199-eilm24dj1aoti26rn0h8fqgggev70546.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9pmkalhb6BFoIMipUN7e3fWw0pZ_niYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857707658199-eilm24dj1aoti26rn0h8fqgggev70546.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "857707658199-5tkeujpnoiqo9ha03mi5sjj61jqusnuu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mx.edu.ittepic.damU3Ejercicio7Sqlite"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857707658199:android:5e537edb8c1e12afaae992",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.dam_u4_proyecto1_19400640"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857707658199-eilm24dj1aoti26rn0h8fqgggev70546.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9pmkalhb6BFoIMipUN7e3fWw0pZ_niYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857707658199-eilm24dj1aoti26rn0h8fqgggev70546.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "857707658199-5tkeujpnoiqo9ha03mi5sjj61jqusnuu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mx.edu.ittepic.damU3Ejercicio7Sqlite"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
